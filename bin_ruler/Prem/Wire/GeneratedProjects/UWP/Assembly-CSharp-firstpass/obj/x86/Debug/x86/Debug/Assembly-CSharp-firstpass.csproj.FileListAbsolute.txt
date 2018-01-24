@@ -1,0 +1,17 @@
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.dll
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.pdb
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.pri
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.dll
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.pdb
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\priconfig.xml
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\priconfig.xml.intermediate
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\layout.resfiles
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\layout.resfiles.intermediate
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\resources.resfiles
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\resources.resfiles.intermediate
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\pri.resfiles
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\pri.resfiles.intermediate
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\qualifiers.txt
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\qualifiers.txt.intermediate
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt

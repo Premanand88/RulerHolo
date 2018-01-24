@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>CanSeeAll</UnityWSASolutionName>
+        <UnityWSASolutionDir>F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\</UnityWSASolutionDir>
+        <UnityProjectDir>F:\udacity2\RulerHolo\</UnityProjectDir>
+        <UnityWSAPlayerDir>F:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

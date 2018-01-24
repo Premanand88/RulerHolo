@@ -1,0 +1,4 @@
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\CanSeeAll\CanSeeAll.csproj;x86
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+F:\udacity2\RulerHolo\bin_ruler\Prem\Wire\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86

@@ -1,0 +1,1 @@
+F:\udacity2\RulerHolo\BIN\RulerHolo\RulerHolo.csproj;x86
